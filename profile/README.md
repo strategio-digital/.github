@@ -1,2 +1,2 @@
 # Strategio
-This repositories are maintained by Jiří Zapletal
+Theese repositories are maintained by Jiří Zapletal (jz[at]strategio.dev)
